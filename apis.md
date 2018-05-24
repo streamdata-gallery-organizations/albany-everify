@@ -10,8 +10,8 @@ image: http://pbs.twimg.com/profile_images/1632179196/fortumo-uuslogo-flower_nor
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Albany eVERIFY
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/albany-everify/master/_listings/albany-everify/apis.md
 specificationVersion: "0.14"
 apis: []
